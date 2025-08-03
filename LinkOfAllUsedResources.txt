@@ -1,0 +1,16 @@
+
+//PostgreSQL Database serverless neon
+https://console.neon.tech/app/projects/empty-sun-52520037/branches/br-dawn-snow-adknkz81/tables?database=neondb
+
+//Clerk for user login signup and payment 
+https://dashboard.clerk.com/apps/app_30dVYGYlXxADPiKq0NTb6C1Gzgp/instances/ins_30dVYR5t7EMxgmBmbcFpXvpyK29/api-keys
+
+//google gemini for article and title generation
+https://ai.google.dev/gemini-api/docs/openai#javascript_1
+//for api key
+https://aistudio.google.com/apikey
+
+// for image free 100 but login through the gmail
+https://clipdrop.co/apis/account
+
+https://github.com/GreatStackDev/notes/blob/main/Vercel_JSON_Config_For_MERN.md
